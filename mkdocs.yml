@@ -1,0 +1,133 @@
+# =====================================================================
+#  Biogenomas · Cursos — Comité de Entrenamiento y Transferencia (CET)
+#  Red de Genomas Neotropicales
+# ---------------------------------------------------------------------
+#  TROQUE "SEU-USUARIO" pelo seu usuário do GitHub (3 ocorrências).
+#  Quando o repositório migrar para uma organização, troque também aqui.
+# =====================================================================
+
+site_name: Biogenomas · Cursos
+site_description: Comité de Entrenamiento y Transferencia de BioGenomas – Red de Genomas Neotropicales
+site_url: https://SEU-USUARIO.github.io/biogenomas-cursos/
+repo_url: https://github.com/SEU-USUARIO/biogenomas-cursos
+repo_name: biogenomas-cursos
+edit_uri: edit/main/docs/
+use_directory_urls: false
+
+theme:
+  name: material
+  language: es
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Modo oscuro / Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: [es, pt]
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: es
+          name: Español
+          default: true
+          build: true
+        - locale: pt
+          name: Português
+          build: true
+          site_name: Biogenomas · Cursos
+          nav_translations:
+            Inicio: Início
+            Sobre el comité: Sobre o comitê
+            Cursos: Cursos
+            Plantilla de curso: Modelo de curso
+            Calendario: Calendário
+            Equipo: Equipe
+            Recursos: Recursos
+            Oportunidades: Oportunidades
+            Noticias: Notícias
+            Contribuir: Contribuir
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+
+# Os caminhos são os mesmos nas duas línguas (docs/es/... e docs/pt/...).
+# Os títulos em português vêm de nav_translations, acima.
+nav:
+  - Inicio: index.md
+  - Sobre el comité: sobre.md
+  - Cursos:
+      - cursos/index.md
+      - Plantilla de curso: cursos/plantilla/index.md
+  - Calendario: calendario.md
+  - Equipo: equipo.md
+  - Recursos: recursos/index.md
+  - Oportunidades: oportunidades.md
+  - Noticias: noticias/index.md
+  - Contribuir: contribuir.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/genotropics/
+      name: GenoTropics en Instagram
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@GenoTropics
+      name: GenoTropics en YouTube
+    - icon: material/web
+      link: https://www.genotropics.org/neotropical-biogenomes-network
+      name: Red de Genomas Neotropicales
