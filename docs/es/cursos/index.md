@@ -1,6 +1,6 @@
 # Cursos
 
-Materiales de los cursos organizados por el CET. Cada curso es independiente y puede seguirse por cuenta propia o como parte de una de las [actividades del calendario](../calendario.md).
+Materiales de los cursos organizados por el Comité de Formación y Transferencia de Conocimiento. Cada curso es independiente y puede seguirse por cuenta propia o como parte de una de las [actividades del calendario](../calendario.md).
 
 <div class="grid cards" markdown>
 
@@ -8,7 +8,7 @@ Materiales de los cursos organizados por el CET. Cada curso es independiente y p
 
     ---
 
-    Modelo con la estructura estándar de los cursos del CET. Cópiala para crear un curso nuevo.
+    Modelo con la estructura estándar de los cursos del Comité. Cópiala para crear un curso nuevo.
 
     **Carga horaria:** —<br>
     **Requisitos previos:** —
@@ -52,4 +52,4 @@ Todos siguen la misma estructura, para que siempre sepas qué esperar:
 
 ## Proponer un curso nuevo
 
-¿Tienes una idea de curso para la Red? Mira la página [Contribuir](../contribuir.md) o abre una *issue* en el [repositorio de GitHub](https://github.com/SEU-USUARIO/biogenomas-cursos/issues/new).
+¿Tienes una idea de curso para la Red? Mira la página [Contribuir](../contribuir.md) o abre una *issue* en el [repositorio de GitHub](https://github.com/RenataODias/biogenomas-cet-cursos/issues/new).

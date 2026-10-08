@@ -2,7 +2,7 @@
 
 ## :material-database: Datos de ejemplo
 
-Los datos pequeños (< 50 MB por archivo) usados en los cursos están en la carpeta [`data/`](https://github.com/SEU-USUARIO/biogenomas-cursos/tree/main/data) del repositorio. Los datos más grandes (lecturas crudas, ensamblajes completos) se publican en **[Zenodo](https://zenodo.org/)**, con DOI propio.
+Los datos pequeños (< 50 MB por archivo) usados en los cursos están en la carpeta [`data/`](https://github.com/RenataODias/biogenomas-cet-cursos/tree/main/data) del repositorio. Los datos más grandes (lecturas crudas, ensamblajes completos) se publican en **[Zenodo](https://zenodo.org/)**, con DOI propio.
 
 | Conjunto de datos | Curso | Tamaño | Enlace |
 | ----------------- | ----- | ------ | ------ |

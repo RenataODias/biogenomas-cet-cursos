@@ -3,16 +3,16 @@ hide:
   - navigation
 ---
 
-# Biogenomas · Cursos
+# BioGenomas · Cursos
 
-> Comité de Entrenamiento y Transferencia de BioGenomas (CET) · Red de Genomas Neotropicales
+> Comité de Formación y Transferencia de Conocimiento · Red de Genomas Neotropicales (Red BioGenomas)
 
 !!! quote ""
     Formación práctica en genómica y bioinformática para fortalecer, desde el Neotrópico, la generación y el análisis de genomas de referencia de nuestra biodiversidad.
 
 ## :material-information: Quiénes somos
 
-El **Comité de Entrenamiento y Transferencia (CET)** de la **[Red de Genomas Neotropicales](https://www.genotropics.org/neotropical-biogenomes-network)** organiza cursos, talleres y actividades de formación para estudiantes, investigadores y técnicos de América Latina.
+El **Comité de Formación y Transferencia de Conocimiento** es uno de los cinco comités de trabajo de la **[Red BioGenomas](https://www.genotropics.org/neotropical-biogenomes-network)**, que reúne iniciativas de Argentina, Brasil, Chile, Colombia, Ecuador, Panamá y Uruguay. Organiza cursos, talleres, mentorías, pasantías e intercambios para fortalecer las capacidades en genómica de la biodiversidad en América Latina.
 
 En este sitio reunimos los **materiales de los cursos**, el **calendario de actividades** y la información sobre el **equipo**. Todo el contenido es abierto y puede reutilizarse.
 
@@ -42,7 +42,7 @@ En este sitio reunimos los **materiales de los cursos**, el **calendario de acti
 
     ---
 
-    Coordinación, instructores y colaboradores del comité.
+    Miembros, consultores(as) e instructores(as) del comité.
 
     [:octicons-arrow-right-24: Conocer el equipo](equipo.md)
 
@@ -74,7 +74,7 @@ En este sitio reunimos los **materiales de los cursos**, el **calendario de acti
 
 ## :material-newspaper-variant-outline: Últimas noticias
 
-- **Octubre de 2026** — Lanzamiento del sitio de cursos del CET. [Leer más](noticias/index.md)
+- **Octubre de 2026** — Lanzamiento del sitio de cursos del Comité. [Leer más](noticias/index.md)
 
 ## :material-license: Licencia
 

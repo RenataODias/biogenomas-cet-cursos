@@ -1,51 +1,79 @@
 # Sobre o comitê
 
-## :material-earth: A Rede de Genomas Neotropicais
+## :material-earth: A Rede BioGenomas
 
-A **[Rede de Genomas Neotropicais](https://www.genotropics.org/neotropical-biogenomes-network)** (*Neotropical Biogenomes Network*) busca fortalecer a pesquisa genômica no Neotrópico e promover ações de conservação da biodiversidade. Entre seus objetivos estão:
+A **[Rede de Genomas Neotropicais (Rede BioGenomas)](https://www.genotropics.org/neotropical-biogenomes-network)** articula iniciativas nacionais da **Argentina, Brasil, Chile, Colômbia, Equador, Panamá e Uruguai** para gerar, gerenciar, analisar e utilizar **genomas de referência da biodiversidade neotropical**.
 
-- gerar **genomas de referência de alta qualidade** para espécies da região, com liderança de cientistas sediados no Neotrópico;
-- envolver pesquisadores da **diáspora científica latino-americana** e da comunidade internacional;
-- **desenvolver capacidades regionais** por meio da troca de experiências e do uso da infraestrutura local;
-- estabelecer **métodos padronizados** para superar gargalos na obtenção de genomas;
-- preservar amostras biológicas em **coleções científicas locais**.
-
-## :material-school: O Comitê de Treinamento e Transferência (CET)
-
-O **CET** é o comitê da Rede responsável pela **formação** e pela **transferência de conhecimento e tecnologia**. Suas principais linhas de ação são:
+A Rede é conduzida por uma **Coordenação Geral** e um **Conselho Executivo**, com um(a) representante e um(a) suplente por país, e organiza seu trabalho científico e técnico em **cinco comitês**:
 
 <div class="grid cards" markdown>
 
--   :material-teach:{ .lg .middle } __Cursos e oficinas__
+-   :material-bird:{ .lg .middle } __1 · Seleção de Espécies e Coleções__
 
     ---
 
-    Organizar cursos teórico-práticos sobre todo o fluxo de trabalho genômico: amostragem, extração de DNA, sequenciamento, montagem, anotação e análises comparativas.
+    Priorização de espécies e articulação com coleções, museus, herbários e biobancos.
 
--   :material-book-open-page-variant:{ .lg .middle } __Materiais abertos__
-
-    ---
-
-    Produzir tutoriais reutilizáveis, bilíngues (espanhol e português), com dados de exemplo, que possam ser usados em qualquer instituição da Rede.
-
--   :material-account-switch:{ .lg .middle } __Formação de formadores__
+-   :material-dna:{ .lg .middle } __2 · Sequenciamento e Infraestrutura__
 
     ---
 
-    Preparar novos instrutores e monitores para multiplicar as atividades em diferentes países.
+    Protocolos, laboratórios e plataformas de sequenciamento na região.
 
--   :material-swap-horizontal:{ .lg .middle } __Transferência__
+-   :material-server-network:{ .lg .middle } __3 · Bioinformática e Infraestrutura de Dados__
 
     ---
 
-    Compartilhar protocolos, *pipelines* e boas práticas entre os laboratórios da Rede.
+    *Pipelines*, padrões de metadados e gestão de dados genômicos (FAIR e CARE).
+
+-   :material-school:{ .lg .middle } __4 · Formação e Transferência de Conhecimento__
+
+    ---
+
+    **Este comitê.** Educação, capacitação e intercâmbio para fortalecer as capacidades genômicas na região.
+
+-   :material-scale-balance:{ .lg .middle } __5 · Ética, Assuntos Legais e Participação Social__
+
+    ---
+
+    Conduta ética, conformidade legal e participação da sociedade e dos povos indígenas.
 
 </div>
 
-!!! tip "Complete esta página"
-    Acrescente aqui a missão do comitê, os países e instituições participantes e o ano de criação.
+<figure markdown>
+  ![Estrutura de governança da Rede BioGenomas](../assets/estructura-red-biogenomas.jpg){ loading=lazy }
+  <figcaption>Estrutura de governança e organização funcional da Rede BioGenomas (figura original em espanhol).</figcaption>
+</figure>
+
+## :material-target: Objetivo do comitê
+
+O **Comitê de Formação e Transferência de Conhecimento** tem como objetivo **fortalecer as capacidades científicas, técnicas e humanas** necessárias para o desenvolvimento da genômica da biodiversidade na América Latina, promovendo a circulação de conhecimentos, metodologias e tecnologias entre os países e instituições participantes.
+
+## :material-map-marker-path: Escopo
+
+- **Diagnóstico contínuo** das necessidades de formação identificadas pelas iniciativas nacionais e das lacunas regionais.
+- Atividades que cobrem **todas as etapas** para produzir, analisar e utilizar genomas de referência: manejo e processamento de amostras, sequenciamento, bioinformática, análise genômica, gestão de dados, interpretação de resultados e aspectos éticos e legais.
+- **Diversos formatos:** cursos, oficinas, mentorias, estágios, intercâmbios entre instituições, treinamento cruzado e formação de formadores.
+- **Prioridade a quem tem menos acesso** a infraestrutura, recursos ou formação especializada, para uma participação regional mais equilibrada.
+- **Divulgação científica** para públicos não especializados: estudantes da educação básica, professores, comunidades locais e a sociedade em geral.
+- **Articulação com o [Earth BioGenome Project (EBP)](https://www.earthbiogenome.org/)**, suas redes afiliadas e outras iniciativas nacionais e internacionais.
+
+## :material-account-group: Como funciona
+
+| | |
+| --- | --- |
+| **Integrantes** | Até seis membros, com representação equilibrada de países (no máximo dois por país). |
+| **Coordenação** | Um(a) coordenador(a) e um(a) vice-coordenador(a) de países diferentes, com mandato de três anos. |
+| **Consultores(as)** | Especialistas convidados(as) para atividades pontuais, com caráter consultivo. |
+| **Planejamento** | Plano Trienal de Trabalho com objetivos, produtos e indicadores, avaliado pelo menos uma vez por ano. |
+| **Articulação** | Trabalho conjunto com os outros quatro comitês e reuniões trimestrais com a Coordenação Geral. |
+
+Conheça as pessoas do comitê na página [Equipe](equipo.md).
+
+!!! info "Fonte"
+    Baseado no documento *Comités de Trabajo – Red de Genomas Neotropicales: documento orientador para formación y ejecución de tareas*, aprovado pelo Conselho Executivo em 31 de agosto de 2026.
 
 ## :material-email-outline: Contato
 
-- Rede de Genomas Neotropicais: [genotropics.org](https://www.genotropics.org/neotropical-biogenomes-network)
-- Para assuntos de cursos, fale com a [coordenação do comitê](equipo.md) ou abra uma *issue* no [repositório do GitHub](https://github.com/SEU-USUARIO/biogenomas-cursos/issues).
+- Rede BioGenomas: [genotropics.org](https://www.genotropics.org/neotropical-biogenomes-network)
+- Para assuntos de cursos, fale com a [coordenação do comitê](equipo.md) ou abra uma *issue* no [repositório do GitHub](https://github.com/RenataODias/biogenomas-cet-cursos/issues).

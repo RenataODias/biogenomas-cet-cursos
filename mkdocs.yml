@@ -1,24 +1,24 @@
 # =====================================================================
-#  Biogenomas · Cursos — Comité de Entrenamiento y Transferencia (CET)
+#  BioGenomas · Formación — Comité de Formación y Transferencia de Conocimiento
 #  Red de Genomas Neotropicales
 # ---------------------------------------------------------------------
-#  TROQUE "SEU-USUARIO" pelo seu usuário do GitHub (3 ocorrências).
+#  Repositório: github.com/RenataODias/biogenomas-cet-cursos
 #  Quando o repositório migrar para uma organização, troque também aqui.
 # =====================================================================
 
-site_name: Biogenomas · Cursos
-site_description: Comité de Entrenamiento y Transferencia de BioGenomas – Red de Genomas Neotropicales
-site_url: https://SEU-USUARIO.github.io/biogenomas-cursos/
-repo_url: https://github.com/SEU-USUARIO/biogenomas-cursos
-repo_name: biogenomas-cursos
+site_name: BioGenomas · Cursos
+site_description: Comité de Formación y Transferencia de Conocimiento – Red de Genomas Neotropicales (Red BioGenomas)
+site_url: https://RenataODias.github.io/biogenomas-cet-cursos/
+repo_url: https://github.com/RenataODias/biogenomas-cet-cursos
+repo_name: biogenomas-cet-cursos
 edit_uri: edit/main/docs/
 use_directory_urls: false
 
 theme:
   name: material
   language: es
-  logo: assets/logo.svg
-  favicon: assets/logo.svg
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -68,7 +68,7 @@ plugins:
         - locale: pt
           name: Português
           build: true
-          site_name: Biogenomas · Cursos
+          site_name: BioGenomas · Cursos
           nav_translations:
             Inicio: Início
             Sobre el comité: Sobre o comitê

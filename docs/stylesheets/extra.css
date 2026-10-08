@@ -1,32 +1,36 @@
 /* ============================================================
-   Paleta Biogenomas · CET  (troque à vontade)
-   Verde-floresta:  #0B3D3A  (primária)
-   Teal:            #1F7A6D
-   Amarelo-ipê:     #F2C14E  (acento)
+   Paleta BioGenomas (cores do logo oficial)
+   Teal:          #3D8381  (logo) · #2F6E6C (barra do topo, contraste AA)
+   Verde-escuro:  #274319  (logo)
+   Verde-médio:   #406C2D  (logo)
    ============================================================ */
 
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color:             #0B3D3A;
-  --md-primary-fg-color--light:      #1F7A6D;
-  --md-primary-fg-color--dark:       #062624;
+  --md-primary-fg-color:             #2F6E6C;
+  --md-primary-fg-color--light:      #3D8381;
+  --md-primary-fg-color--dark:       #234F4E;
   --md-primary-bg-color:             #FFFFFF;
-  --md-accent-fg-color:              #C98F12;
-  --md-accent-fg-color--transparent: rgba(242, 193, 78, 0.12);
-  --md-typeset-a-color:              #1F7A6D;
+  --md-accent-fg-color:              #406C2D;
+  --md-accent-fg-color--transparent: rgba(64, 108, 45, 0.10);
+  --md-typeset-a-color:              #2F6E6C;
 }
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color:             #0B3D3A;
-  --md-primary-fg-color--light:      #1F7A6D;
-  --md-primary-fg-color--dark:       #062624;
-  --md-accent-fg-color:              #F2C14E;
-  --md-accent-fg-color--transparent: rgba(242, 193, 78, 0.12);
-  --md-typeset-a-color:              #6CC4B4;
+  --md-primary-fg-color:             #2F6E6C;
+  --md-primary-fg-color--light:      #3D8381;
+  --md-primary-fg-color--dark:       #234F4E;
+  --md-accent-fg-color:              #9CCB7E;
+  --md-accent-fg-color--transparent: rgba(156, 203, 126, 0.12);
+  --md-typeset-a-color:              #7FC4C1;
 }
+
+/* Títulos em verde-escuro (modo claro) */
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2 { color: #274319; }
 
 /* Logo */
 .md-header__button.md-logo img,
-.md-header__button.md-logo svg { height: 2.2rem; width: auto; }
+.md-header__button.md-logo svg { height: 2.4rem; width: auto; }
 
 /* Selos de status */
 .green  { color: #2e9e5b !important; }
@@ -83,4 +87,7 @@
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
-[data-md-color-scheme="slate"] .md-typeset .event .date { color: #6CC4B4; }
+[data-md-color-scheme="slate"] .md-typeset .event .date { color: #7FC4C1; }
+
+/* Figura da estrutura da Rede */
+.md-typeset figure img { border-radius: 6px; border: 1px solid var(--md-default-fg-color--lightest); }

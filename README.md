@@ -1,9 +1,9 @@
-# Biogenomas · Cursos
+# BioGenomas · Cursos
 
-Sitio de cursos del **Comité de Entrenamiento y Transferencia de BioGenomas (CET) – Red de Genomas Neotropicales**.
-Site de cursos do **Comitê de Treinamento e Transferência do BioGenomas (CET) – Rede de Genomas Neotropicais**.
+Sitio de cursos del **Comité de Formación y Transferencia de Conocimiento – Red de Genomas Neotropicales (Red BioGenomas)**.
+Site de cursos do **Comitê de Formação e Transferência de Conhecimento – Rede de Genomas Neotropicais (Rede BioGenomas)**.
 
-🌐 https://SEU-USUARIO.github.io/biogenomas-cursos/
+🌐 https://RenataODias.github.io/biogenomas-cet-cursos/
 
 ## Estrutura
 

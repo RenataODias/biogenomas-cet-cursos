@@ -3,16 +3,16 @@ hide:
   - navigation
 ---
 
-# Biogenomas · Cursos
+# BioGenomas · Cursos
 
-> Comitê de Treinamento e Transferência do BioGenomas (CET) · Rede de Genomas Neotropicais
+> Comitê de Formação e Transferência de Conhecimento · Rede de Genomas Neotropicais (Rede BioGenomas)
 
 !!! quote ""
     Formação prática em genômica e bioinformática para fortalecer, a partir do Neotrópico, a geração e a análise de genomas de referência da nossa biodiversidade.
 
 ## :material-information: Quem somos
 
-O **Comité de Entrenamiento y Transferencia (CET)** da **[Rede de Genomas Neotropicais](https://www.genotropics.org/neotropical-biogenomes-network)** organiza cursos, oficinas e atividades de formação para estudantes, pesquisadores e técnicos da América Latina.
+O **Comitê de Formação e Transferência de Conhecimento** é um dos cinco comitês de trabalho da **[Rede BioGenomas](https://www.genotropics.org/neotropical-biogenomes-network)**, que reúne iniciativas da Argentina, Brasil, Chile, Colômbia, Equador, Panamá e Uruguai. Organiza cursos, oficinas, mentorias, estágios e intercâmbios para fortalecer as capacidades em genômica da biodiversidade na América Latina.
 
 Neste site reunimos os **materiais dos cursos**, o **calendário de atividades** e as informações sobre a **equipe**. Todo o conteúdo é aberto e pode ser reutilizado.
 
@@ -42,7 +42,7 @@ Neste site reunimos os **materiais dos cursos**, o **calendário de atividades**
 
     ---
 
-    Coordenação, instrutores e colaboradores do comitê.
+    Membros, consultores(as) e instrutores(as) do comitê.
 
     [:octicons-arrow-right-24: Conhecer a equipe](equipo.md)
 
@@ -74,7 +74,7 @@ Neste site reunimos os **materiais dos cursos**, o **calendário de atividades**
 
 ## :material-newspaper-variant-outline: Últimas notícias
 
-- **Outubro de 2026** — Lançamento do site de cursos do CET. [Ler mais](noticias/index.md)
+- **Outubro de 2026** — Lançamento do site de cursos do Comitê. [Ler mais](noticias/index.md)
 
 ## :material-license: Licença
 

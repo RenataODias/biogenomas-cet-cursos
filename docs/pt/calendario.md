@@ -6,7 +6,7 @@ Cursos, oficinas, seminários e reuniões do comitê. Os horários do calendári
 
 <!--
   CONFIGURAÇÃO (uma única vez):
-  1. Crie um Google Calendar chamado "Biogenomas CET" e compartilhe com os membros do comitê.
+  1. Crie um Google Calendar chamado "BioGenomas - Formação" e compartilhe com os membros do comitê.
   2. Configurações do calendário → "Permissões de acesso" → marque "Disponibilizar para o público".
   3. "Integrar agenda" → copie o ID da agenda (algo como abc123@group.calendar.google.com).
   4. Substitua ID_DO_CALENDARIO abaixo (aqui e em docs/es/calendario.md).
@@ -14,7 +14,7 @@ Cursos, oficinas, seminários e reuniões do comitê. Os horários do calendári
 
 <div class="calendar-embed">
   <iframe src="https://calendar.google.com/calendar/embed?src=ID_DO_CALENDARIO&ctz=America%2FSao_Paulo&mode=AGENDA&hl=pt-BR&showPrint=0&showTitle=0"
-          title="Calendário Biogenomas CET" loading="lazy"></iframe>
+          title="Calendário BioGenomas - Formação" loading="lazy"></iframe>
 </div>
 
 [:material-calendar-plus: Adicionar à minha agenda](https://calendar.google.com/calendar/u/0?cid=ID_DO_CALENDARIO){ .md-button .md-button--primary }
@@ -39,9 +39,9 @@ Descrição breve. Instrutores: Nome 1, Nome 2.
 <div class="event" markdown>
 <span class="date">Mensal</span>
 
-**Reunião do Comitê de Treinamento e Transferência** · *On-line*
+**Reunião do Comitê de Formação e Transferência de Conhecimento** · *On-line*
 
-Reunião de planejamento do CET. Aberta aos membros do comitê.
+Reunião de planejamento do Comitê. Aberta aos membros e consultores(as) convidados(as).
 </div>
 
 ## :material-history: Atividades anteriores

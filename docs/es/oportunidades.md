@@ -3,7 +3,7 @@
 Convocatorias, becas, cursos externos y programas de intercambio de interés para los miembros de la Red.
 
 !!! note "¿Conoces una oportunidad?"
-    Envíala a la coordinación del comité o abre una *issue* en el [repositorio](https://github.com/SEU-USUARIO/biogenomas-cursos/issues/new). Retiramos las convocatorias cerradas.
+    Envíala a la coordinación del comité o abre una *issue* en el [repositorio](https://github.com/RenataODias/biogenomas-cet-cursos/issues/new). Retiramos las convocatorias cerradas.
 
 <!--
   Para agregar, copia el bloque de abajo. Usa:

@@ -7,6 +7,6 @@
 
 ## Outubro de 2026 · Lançamento do site de cursos
 
-O **Comitê de Treinamento e Transferência do BioGenomas** lança seu site de cursos. Aqui vamos reunir os materiais de todas as atividades de formação da Rede, o calendário de eventos e as informações da equipe, em **espanhol** e **português**.
+O **Comitê de Formação e Transferência de Conhecimento** da Rede BioGenomas lança seu site de cursos. Aqui vamos reunir os materiais de todas as atividades de formação da Rede, o calendário de eventos e as informações da equipe, em **espanhol** e **português**.
 
 Quer colaborar com um curso? Veja a página [Contribuir](../contribuir.md).

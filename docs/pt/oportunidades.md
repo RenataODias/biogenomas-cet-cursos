@@ -3,7 +3,7 @@
 Editais, bolsas, cursos externos e programas de intercâmbio de interesse para os membros da Rede.
 
 !!! note "Conhece uma oportunidade?"
-    Envie para a coordenação do comitê ou abra uma *issue* no [repositório](https://github.com/SEU-USUARIO/biogenomas-cursos/issues/new). Editais encerrados são retirados.
+    Envie para a coordenação do comitê ou abra uma *issue* no [repositório](https://github.com/RenataODias/biogenomas-cet-cursos/issues/new). Editais encerrados são retirados.
 
 <!--
   Para adicionar, copie o bloco abaixo. Use:

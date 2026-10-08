@@ -6,7 +6,7 @@ El sitio se construye con [MkDocs Material](https://squidfunk.github.io/mkdocs-m
 
 <div class="grid cards" markdown>
 
--   :material-teach:{ .lg .middle } __Impartir un curso__
+-   :material-human-male-board:{ .lg .middle } __Impartir un curso__
 
     ---
 
@@ -35,7 +35,7 @@ El sitio se construye con [MkDocs Material](https://squidfunk.github.io/mkdocs-m
 ## :material-folder-outline: Organización del repositorio
 
 ```text
-biogenomas-cursos/
+biogenomas-cet-cursos/
 ├── mkdocs.yml              # configuración y menú del sitio
 ├── docs/
 │   ├── es/                 # páginas en español (idioma principal)
