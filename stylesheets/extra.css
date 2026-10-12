@@ -12,7 +12,6 @@
   --md-accent-fg-color:              #718b4f;   /* hover dos links */
   --md-accent-fg-color--transparent: rgba(113, 139, 79, 0.12);
   --md-typeset-a-color:              #2f6d22;   /* links */
-  --md-default-bg-color:             #f9f7ed;   /* fundo creme */
 }
 
 [data-md-color-scheme="slate"] {
