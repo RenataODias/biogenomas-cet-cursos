@@ -17,8 +17,8 @@ use_directory_urls: false
 theme:
   name: material
   language: es
-  logo: assets/Símbolo_VerdeClaro.png
-  favicon: assets/Símbolo_VerdeClaro.png
+  logo: assets/logo.png
+  favicon: assets/simbolo-verde-escuro.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
