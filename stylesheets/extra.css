@@ -1,32 +1,32 @@
 /* ============================================================
-   Paleta BioGenomas (cores do logo oficial)
-   Teal:          #3D8381  (logo) · #2F6E6C (barra do topo, contraste AA)
-   Verde-escuro:  #274319  (logo)
-   Verde-médio:   #406C2D  (logo)
+   Paleta BioGenomas (verdes)
+   #1c4412 verde-escuro · #2f6d22 principal · #559645 verde-médio
+   #718b4f oliva · #b9b699 cáqui · #f9f7ed creme
    ============================================================ */
 
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color:             #2F6E6C;
-  --md-primary-fg-color--light:      #3D8381;
-  --md-primary-fg-color--dark:       #234F4E;
-  --md-primary-bg-color:             #FFFFFF;
-  --md-accent-fg-color:              #406C2D;
-  --md-accent-fg-color--transparent: rgba(64, 108, 45, 0.10);
-  --md-typeset-a-color:              #2F6E6C;
+  --md-primary-fg-color:             #2f6d22;   /* barra do topo */
+  --md-primary-fg-color--light:      #559645;
+  --md-primary-fg-color--dark:       #1c4412;
+  --md-primary-bg-color:             #FFFFFF;   /* texto da barra */
+  --md-accent-fg-color:              #718b4f;   /* hover dos links */
+  --md-accent-fg-color--transparent: rgba(113, 139, 79, 0.12);
+  --md-typeset-a-color:              #2f6d22;   /* links */
+  --md-default-bg-color:             #f9f7ed;   /* fundo creme */
 }
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color:             #2F6E6C;
-  --md-primary-fg-color--light:      #3D8381;
-  --md-primary-fg-color--dark:       #234F4E;
-  --md-accent-fg-color:              #9CCB7E;
-  --md-accent-fg-color--transparent: rgba(156, 203, 126, 0.12);
-  --md-typeset-a-color:              #7FC4C1;
+  --md-primary-fg-color:             #1c4412;
+  --md-primary-fg-color--light:      #2f6d22;
+  --md-primary-fg-color--dark:       #12300b;
+  --md-accent-fg-color:              #b9b699;
+  --md-accent-fg-color--transparent: rgba(185, 182, 153, 0.12);
+  --md-typeset-a-color:              #8fc77f;
 }
 
 /* Títulos em verde-escuro (modo claro) */
 [data-md-color-scheme="default"] .md-typeset h1,
-[data-md-color-scheme="default"] .md-typeset h2 { color: #274319; }
+[data-md-color-scheme="default"] .md-typeset h2 { color: #1c4412; }
 
 /* Logo */
 .md-header__button.md-logo img,
