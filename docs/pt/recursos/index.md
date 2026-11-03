@@ -19,7 +19,7 @@ Os dados pequenos (< 50 MB por arquivo) usados nos cursos ficam na pasta [`data/
 
 - **[Earth BioGenome Project (EBP)](https://www.earthbiogenome.org/)**
 - **[European Reference Genome Atlas (ERGA)](https://www.erga-biodiversity.eu/)**
-- **[GenomeArk / Vertebrate Genomes Project](https://www.genomeark.org/)**
+- **[Vertebrate Genomes Project (VGP)](https://vertebrategenomesproject.org/)**
 - **[Rede de Genomas Neotropicais](https://www.genotropics.org/neotropical-biogenomes-network)**
 
 ## :material-school-outline: Outros materiais de formação

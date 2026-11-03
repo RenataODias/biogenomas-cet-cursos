@@ -17,52 +17,70 @@ El **Comité de Formación y Transferencia de Conocimiento** está formado por m
 
 - :material-account-circle:{ .team-photo-placeholder }
 
-    **Vanina Villanova**
+    **Renata Dias**
 
-    Universidad Nacional de Rosario<br>
-    :material-map-marker: Argentina
+    *Coordinadora*
+
+    Universidade Federal de Goiás<br>
+    :flag_br: Brasil
+
+    [:material-email-outline: renata_dias@ufg.br](mailto:renata_dias@ufg.br)
 
 - :material-account-circle:{ .team-photo-placeholder }
 
-    **Renata Dias**
+    **Vanina Villanova**
 
-    Universidade Federal de Goiás<br>
-    :material-map-marker: Brasil
+    *Vicecoordinadora*
+
+    Universidad Nacional de Rosario<br>
+    :flag_ar: Argentina
+
+    [:material-email-outline: vanivillanova@gmail.com](mailto:vanivillanova@gmail.com)
+
+- :material-account-circle:{ .team-photo-placeholder }
+
+    **Andrew J. Crawford**
+
+    Universidad de los Andes<br>
+    :flag_co: Colombia
+
+    [:material-email-outline: crawfordaj@gmail.com](mailto:crawfordaj@gmail.com)
+
+- :material-account-circle:{ .team-photo-placeholder }
+
+    **Alexis Gaete**
+
+    Pontificia Universidad Católica de Chile<br>
+    :flag_cl: Chile
+
+    [:material-email-outline: Alexis.gaete@uc.cl](mailto:Alexis.gaete@uc.cl)
 
 - :material-account-circle:{ .team-photo-placeholder }
 
     **Camila Mazzoni**
 
     Leibniz Institute for Zoo and Wildlife Research<br>
-    :material-map-marker: Brasil – Alemania
+    :flag_br: :flag_de: Brasil – Alemania
+
+    [:material-email-outline: mazzoni@izw-berlin.de](mailto:mazzoni@izw-berlin.de)
 
 - :material-account-circle:{ .team-photo-placeholder }
 
-    **Andrew Crawford**
+    **Luis Mejía**
 
-    Universidad de Los Andes<br>
-    :material-map-marker: Colombia
+    INDICASAT AIP<br>
+    :flag_pa: Panamá
 
-- :material-account-circle:{ .team-photo-placeholder }
-
-    **Alexis Gaete**
-
-    Institución por confirmar<br>
-    :material-map-marker: Chile
+    [:material-email-outline: LMejia@indicasat.org.pa](mailto:LMejia@indicasat.org.pa)
 
 - :material-account-circle:{ .team-photo-placeholder }
 
     **Nélida Rodríguez**
 
     Universidad de la República<br>
-    :material-map-marker: Uruguay
+    :flag_uy: Uruguay
 
-- :material-account-circle:{ .team-photo-placeholder }
-
-    **Luis Mejía**
-
-    Institución por confirmar<br>
-    :material-map-marker: Panamá
+    [:material-email-outline: nelidarodriguez48@gmail.com](mailto:nelidarodriguez48@gmail.com)
 
 </div>
 

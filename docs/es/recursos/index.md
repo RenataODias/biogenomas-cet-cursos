@@ -19,7 +19,7 @@ Los datos pequeños (< 50 MB por archivo) usados en los cursos están en la carp
 
 - **[Earth BioGenome Project (EBP)](https://www.earthbiogenome.org/)**
 - **[European Reference Genome Atlas (ERGA)](https://www.erga-biodiversity.eu/)**
-- **[GenomeArk / Vertebrate Genomes Project](https://www.genomeark.org/)**
+- **[Vertebrate Genomes Project (VGP)](https://vertebrategenomesproject.org/)**
 - **[Red de Genomas Neotropicales](https://www.genotropics.org/neotropical-biogenomes-network)**
 
 ## :material-school-outline: Otros materiales de formación

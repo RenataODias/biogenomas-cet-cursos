@@ -1,55 +1,76 @@
 # Cursos
 
-Materiales de los cursos organizados por el Comité de Formación y Transferencia de Conocimiento. Cada curso es independiente y puede seguirse por cuenta propia o como parte de una de las [actividades del calendario](../calendario.md).
+Catálogo de cursos de genómica y bioinformática ofrecidos en los países de la Red BioGenomas. Los materiales pueden estar donde cada equipo prefiera: en un documento de Google, en el repositorio del propio curso, en una página institucional o como tutorial en este sitio.
+
+**Tipos de material:**
+:material-file-document-outline: Documento o carpeta (Google Docs/Drive) ·
+:fontawesome-brands-github: Repositorio (GitHub/GitLab) ·
+:material-web: Página del curso ·
+:material-book-open-variant: Tutorial en este sitio ·
+:material-play-circle-outline: Grabaciones
+
+## :material-view-grid-outline: Catálogo
 
 <div class="grid cards" markdown>
 
--   :material-file-document-edit-outline: **Plantilla de curso**
+-   :flag_br: **Curso teórico en el Congreso Brasileño de Recursos Genéticos**
 
     ---
 
-    Modelo con la estructura estándar de los cursos del Comité. Cópiala para crear un curso nuevo.
+    Curso teórico de 4 horas realizado durante el congreso.
 
-    **Carga horaria:** —<br>
-    **Requisitos previos:** —
+    **Modalidad:** Presencial<br>
+    **Fecha:** Noviembre de 2026<br>
+    **Idioma:** Portugués
 
-    :octicons-tools-24:{ .grey } **Modelo**
+    :octicons-clock-fill-24:{ .yellow } **Materiales próximamente**
 
-    [:octicons-arrow-right-24: Ver plantilla](plantilla/index.md)
+-   :flag_br: **Ensamblaje de genomas con datos de Nanopore**
+
+    ---
+
+    Curso de dos semanas en la Universidade Federal de Goiás (UFG), Goiânia.
+
+    **Modalidad:** Presencial<br>
+    **Fecha:** Noviembre de 2026<br>
+    **Idioma:** Portugués
+
+    :octicons-clock-fill-24:{ .yellow } **Materiales próximamente**
 
 <!--
-    Para agregar un curso, copia este bloque (sin los comentarios) y edítalo:
+    PARA AGREGAR UN CURSO: copia este bloque (sin las líneas de comentario), edítalo
+    y pégalo arriba de este comentario. Usa la bandera del país (:flag_ar: :flag_br:
+    :flag_cl: :flag_co: :flag_ec: :flag_pa: :flag_uy:) y deja solo los enlaces que existan.
 
--   :material-dna: **Nombre del curso**
+-   :flag_XX: **Nombre del curso**
 
     ---
 
-    Descripción breve en una o dos frases.
+    Descripción breve en una o dos frases. Institución, ciudad.
 
-    **Carga horaria:** ~8 h<br>
-    **Requisitos previos:** Bash básico<br>
-    **Edición:** Ciudad, mes/año
+    **Modalidad:** Presencial / En línea / Autoaprendizaje<br>
+    **Fecha:** mes/año (o "Disponible en cualquier momento")<br>
+    **Idioma:** Español / Portugués / Inglés<br>
+    **Contacto:** nombre@institucion.edu
 
-    :octicons-check-circle-fill-24:{ .green } **Disponible**
-    (o :octicons-clock-fill-24:{ .yellow } **En construcción**)
-
-    [:octicons-arrow-right-24: Acceder al curso](nombre-del-curso/index.md)
+    [:material-file-document-outline: Materiales](https://docs.google.com/...) ·
+    [:fontawesome-brands-github: Repositorio](https://github.com/...) ·
+    [:material-web: Página del curso](https://...) ·
+    [:material-book-open-variant: Tutorial](nombre-del-curso/index.md)
 -->
 
 </div>
 
-## Cómo están organizados los cursos
+## :material-plus-circle-outline: ¿Cómo incluir un curso?
 
-Todos siguen la misma estructura, para que siempre sepas qué esperar:
+Hay tres caminos, según lo que te resulte más práctico:
 
-- :material-target: **Objetivos de aprendizaje** — lo que sabrás hacer al final
-- :material-clock-outline: **Carga horaria** — tiempo aproximado para completar el material
-- :material-tools: **Requisitos previos** — software, conocimientos y datos necesarios
-- :material-presentation: **Presentaciones** — diapositivas de las clases teóricas
-- :material-script-text-outline: **Práctica paso a paso** — dividida en etapas cortas
-- :material-pencil-outline: **Ejercicios** — con respuestas desplegables
-- :material-folder-download-outline: **Datos de ejemplo** — en el repositorio o en Zenodo
+1. **Con tu representante de país.** Envía la información del curso al miembro del comité de tu país (ver [Equipo](../equipo.md)), que la incluirá en la página.
+2. **Por formulario.** *(Próximamente.)* Un formulario sencillo con nombre del curso, país, fecha, modalidad, idioma, enlaces y contacto.
+3. **Directamente en GitHub.** Si conoces GitHub, edita este archivo o abre una *issue* en el [repositorio](https://github.com/RenataODias/biogenomas-cet-cursos/issues/new).
 
-## Proponer un curso nuevo
+No es necesario cambiar el formato de tus materiales: basta con un enlace a donde ya están.
 
-¿Tienes una idea de curso para la Red? Mira la página [Contribuir](../contribuir.md) o abre una *issue* en el [repositorio de GitHub](https://github.com/RenataODias/biogenomas-cet-cursos/issues/new).
+## :material-book-open-variant: ¿Quieres alojar el tutorial aquí?
+
+Si prefieres publicar el material del curso dentro de este sitio, usa la [plantilla de curso](plantilla/index.md). Ella sugiere una estructura (objetivos, requisitos, práctica paso a paso, ejercicios y datos de ejemplo), pero puedes adaptarla libremente.
