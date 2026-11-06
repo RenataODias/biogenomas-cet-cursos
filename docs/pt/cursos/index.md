@@ -25,17 +25,19 @@ Catálogo de cursos de genômica e bioinformática oferecidos nos países da Red
 
     :octicons-clock-fill-24:{ .yellow } **Materiais em breve**
 
--   :flag_br: **Montagem de genomas com dados Nanopore**
+-   :flag_br: **Curso de Montagem de Genomas de Referência com dados Nanopore**
 
     ---
 
-    Curso de duas semanas na Universidade Federal de Goiás (UFG), Goiânia.
+    Curso de duas semanas, com uma parte de bancada e outra de bioinformática. LGBio, Universidade Federal de Goiás (UFG), Goiânia.
 
     **Modalidade:** Presencial<br>
-    **Data:** Novembro de 2026<br>
+    **Data:** 16 a 27 de novembro de 2026<br>
     **Idioma:** Português
 
-    :octicons-clock-fill-24:{ .yellow } **Materiais em breve**
+    :octicons-check-circle-fill-24:{ .green } **Protocolos de bancada disponíveis** · :octicons-clock-fill-24:{ .yellow } **Bioinformática em construção**
+
+    [:material-book-open-variant: Tutorial](montagem-genomas-nanopore/index.md)
 
 <!--
     PARA ADICIONAR UM CURSO: copie este bloco (sem as linhas de comentário), edite

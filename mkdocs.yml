@@ -74,6 +74,8 @@ plugins:
             Sobre el comité: Sobre o comitê
             Cursos: Cursos
             Plantilla de curso: Modelo de curso
+            Ensamblaje de genomas con Nanopore (2026): Montagem de genomas com Nanopore (2026)
+            Parte 1 · Laboratorio: Parte 1 · Bancada
             Calendario: Calendário
             Equipo: Equipe
             Recursos: Recursos
@@ -112,6 +114,10 @@ nav:
   - Sobre el comité: sobre.md
   - Cursos:
       - cursos/index.md
+      - Ensamblaje de genomas con Nanopore (2026):
+          - cursos/montagem-genomas-nanopore/index.md
+          - Parte 1 · Laboratorio: cursos/montagem-genomas-nanopore/bancada.md
+          - Parte 2 · Bioinformática: cursos/montagem-genomas-nanopore/bioinformatica.md
       - Plantilla de curso: cursos/plantilla/index.md
   - Calendario: calendario.md
   - Equipo: equipo.md

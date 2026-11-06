@@ -25,17 +25,19 @@ Catálogo de cursos de genómica y bioinformática ofrecidos en los países de l
 
     :octicons-clock-fill-24:{ .yellow } **Materiales próximamente**
 
--   :flag_br: **Ensamblaje de genomas con datos de Nanopore**
+-   :flag_br: **Curso de Ensamblaje de Genomas de Referencia con datos Nanopore**
 
     ---
 
-    Curso de dos semanas en la Universidade Federal de Goiás (UFG), Goiânia.
+    Curso de dos semanas, con una parte de laboratorio y otra de bioinformática. LGBio, Universidade Federal de Goiás (UFG), Goiânia.
 
     **Modalidad:** Presencial<br>
-    **Fecha:** Noviembre de 2026<br>
+    **Fecha:** Del 16 al 27 de noviembre de 2026<br>
     **Idioma:** Portugués
 
-    :octicons-clock-fill-24:{ .yellow } **Materiales próximamente**
+    :octicons-check-circle-fill-24:{ .green } **Protocolos de laboratorio disponibles** · :octicons-clock-fill-24:{ .yellow } **Bioinformática en construcción**
+
+    [:material-book-open-variant: Tutorial](montagem-genomas-nanopore/index.md)
 
 <!--
     PARA AGREGAR UN CURSO: copia este bloque (sin las líneas de comentario), edítalo
